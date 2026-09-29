@@ -13,7 +13,3 @@
 .externalNativeBuild
 .cxx
 local.properties
-
-# Output JNI / Native (.so binaries hasil build Rust)
-**/src/main/jniLibs/
-*.so
