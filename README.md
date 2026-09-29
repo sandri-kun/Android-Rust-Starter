@@ -70,7 +70,6 @@ cargo check
 ### 3. Open in Android Studio & Run
 1. Open the root folder `AndroidRustStarter` in Android Studio.
 2. **Switch Project View**:
-   > [!TIP]
    > **How to view the Rust Workspace:** In the top-left Project pane, change the view mode from **Android** to **Project**. The default **Android** view filters out non-Android folders, so the `rust/` workspace will only be visible when set to **Project** view.
 3. Ensure your NDK path is detected in `local.properties`.
 4. Select the **`app`** configuration in the toolbar and hit **Run (Shift + F10)**.
