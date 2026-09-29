@@ -1,0 +1,10 @@
+D:\DEV\AndroidRustStarter\rust\target\armv7-linux-androideabi\release\deps\log-7e0fa1009ae2c3b9.d: C:\Users\MyBook\ Hype\ AMD\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\log-0.4.34\src\lib.rs C:\Users\MyBook\ Hype\ AMD\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\log-0.4.34\src\macros.rs C:\Users\MyBook\ Hype\ AMD\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\log-0.4.34\src\serde.rs C:\Users\MyBook\ Hype\ AMD\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\log-0.4.34\src\__private_api.rs
+
+D:\DEV\AndroidRustStarter\rust\target\armv7-linux-androideabi\release\deps\liblog-7e0fa1009ae2c3b9.rlib: C:\Users\MyBook\ Hype\ AMD\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\log-0.4.34\src\lib.rs C:\Users\MyBook\ Hype\ AMD\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\log-0.4.34\src\macros.rs C:\Users\MyBook\ Hype\ AMD\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\log-0.4.34\src\serde.rs C:\Users\MyBook\ Hype\ AMD\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\log-0.4.34\src\__private_api.rs
+
+D:\DEV\AndroidRustStarter\rust\target\armv7-linux-androideabi\release\deps\liblog-7e0fa1009ae2c3b9.rmeta: C:\Users\MyBook\ Hype\ AMD\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\log-0.4.34\src\lib.rs C:\Users\MyBook\ Hype\ AMD\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\log-0.4.34\src\macros.rs C:\Users\MyBook\ Hype\ AMD\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\log-0.4.34\src\serde.rs C:\Users\MyBook\ Hype\ AMD\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\log-0.4.34\src\__private_api.rs
+
+C:\Users\MyBook\ Hype\ AMD\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\log-0.4.34\src\lib.rs:
+C:\Users\MyBook\ Hype\ AMD\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\log-0.4.34\src\macros.rs:
+C:\Users\MyBook\ Hype\ AMD\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\log-0.4.34\src\serde.rs:
+C:\Users\MyBook\ Hype\ AMD\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\log-0.4.34\src\__private_api.rs:

@@ -1,0 +1,1 @@
+D:\DEV\AndroidRustStarter\rust\target\aarch64-linux-android\release\libandroid_binding.so: D:\DEV\AndroidRustStarter\rust\android_binding\src\lib.rs D:\DEV\AndroidRustStarter\rust\core_engine\src\lib.rs
